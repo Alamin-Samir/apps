@@ -9,6 +9,7 @@ export default function Navbar() {
         <Link href="/" className="hover:text-yellow-400">হোম</Link>
         <Link href="/contact" className="hover:text-yellow-400">conatct</Link>
           <Link href="/about" className="hover:text-yellow-400">About me</Link>
+          <Link href='/Download'>Download</Link>
       </div>
     </nav>
   );
